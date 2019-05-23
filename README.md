@@ -1,4 +1,4 @@
-## Link to DevPost: [TwitterTrader Submission](https://devpost.com/software/twitter-trader/edit)
+## Link to DevPost: [TwitterTrader Submission](https://devpost.com/software/twitter-trader/)
 
 
 ## Inspiration
